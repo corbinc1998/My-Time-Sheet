@@ -1,6 +1,6 @@
 {
   "name": "my-time-sheet",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Mario Kart World Time Trial Tracker",
   "author": "corbinc1998",
   "main": "public/electron.js",
